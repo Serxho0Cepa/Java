@@ -1,0 +1,8 @@
+com\springexample\SpringDataJPA1\model\entity\UserDetails.class
+com\springexample\SpringDataJPA1\model\enums\BookingStatus.class
+com\springexample\SpringDataJPA1\model\entity\Flight.class
+com\springexample\SpringDataJPA1\model\entity\User.class
+com\springexample\SpringDataJPA1\main\ApplicationRunner.class
+com\springexample\SpringDataJPA1\model\entity\Booking.class
+com\springexample\SpringDataJPA1\repository\UserRepository.class
+com\springexample\SpringDataJPA1\SpringDataJpa1Application.class
